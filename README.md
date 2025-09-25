@@ -1,1 +1,3 @@
 # A-Demonstration-of-K-means-Clustering-and-Principal-Component-Analysis-Machine-Learning-
+
+Machine learning has brought about advancements in technology and contribution to research across several fields and for that they have become increasingly important in the financial sector with their use not limited to only developing effective trading strategies and gaining a competitive edge but also for performing a variety of tasks, research and analysis. In this handbook, we aim to provide thoughtful guidelines for implementing different Machine learning techniques as well as addressing the challenges and opportunities presented by various machine learning techniques.
